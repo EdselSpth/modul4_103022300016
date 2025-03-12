@@ -20,5 +20,6 @@ namespace modul4_103022300016
             return kodeProduk[(int)Produk]; // Mengembalikan nilai kodeProduk sesuai dengan index Produk
         }
 
+
     }
 }
